@@ -1,0 +1,26 @@
+body {
+  color: white;	background-color: black;
+}
+td.Do {
+  background-color: red;	font-size: 20pt;	font-weight: bold;
+}
+td.Xanh {
+  background-color: blue;	font-size: 20pt;	font-weight: bold;
+}
+span.Hiep {	font-size: 60pt;	font-weight: bold;	}
+span.Hiep0 {	font-size: 60pt;	font-weight: bold; color: 0;	}
+span.Hiep0 {	color: #CCFFFF;	font-size: 48pt;	font-weight: bold	}
+span.Diem {	font-size: 240pt;	font-weight: bold;	}
+span.Ten {	font-size: 36pt;	font-weight: bold;	}
+img.DiemTru	{	width: 30pt;	height: 60pt;	}
+img.MatBung {	width: 40pt;	height: 20pt;	border-style: solid;	border-width: 2pt;	border-color: transparent;	}
+
+div.TTin {	font-size: 24pt;	font-weight: bold	}
+div.Xanh {	color: blue;	font-size: 30pt;	font-weight: bold	}
+div.Do {	color: red;	font-size: 30pt;	font-weight: bold	}
+span.Xanh {	color: blue;	}
+span.Do {	color: red;	}
+input.Xanh {	background-color: #9999FF;	}
+input.Do {	background-color: #FF9999;	}
+input.BigButton {	width: 140pt;	height: 40pt;	}
+input.SmallButton {	width: 140pt;	height: 20pt;	}
